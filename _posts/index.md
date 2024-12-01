@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-Anchored Links Table table { width: 100%; border-collapse: collapse; } table, th, td { border: 1px solid black; } th, td { padding: 10px; text-align: left; }
 
 # Anchored Links Table
 
